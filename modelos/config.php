@@ -8,7 +8,7 @@
 define('MYSQL_USER' , 'edsnoffjti');
 define('MYSQL_PASS' , '3C828SE04WU531CL$');
 define('MYSQL_HOST' , 'ejemploclasealejandro-server.mysql.database.azure.com');
-define('MYSQL_BD' , 'appcastepop');
+define('MYSQL_BD' , 'appCastepop');
 
 // define('MYSQL_USER' , 'id21583947_root');
 // define('MYSQL_PASS' , 'AulaBosco17+');
